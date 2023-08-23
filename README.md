@@ -1,4 +1,4 @@
-# LAMBDA EXPRESSION
+# LAMBDA EXPRESSION - BIỂU THỨC LAMBDA
 
 - biểu thức Lambda hay Lambda Expression, là cách triển khai method từ 1 Functional Interface trong Java nhanh chóng mà không cần phải có các thủ tục
     - khai báo class implement interface
